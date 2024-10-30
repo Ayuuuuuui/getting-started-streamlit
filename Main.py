@@ -3,6 +3,7 @@ import pandas as pd
 
 st.title("Getting Started Streamlit")
 st.write("This is introduction to streamlit")
+st.write('This is an additional text')
 
 st.markdown("## Code")
 code = '''

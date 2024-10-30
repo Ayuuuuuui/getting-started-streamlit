@@ -1,6 +1,5 @@
 # getting-started-streamlit
 
 # requirements.txt
-- pip install streamlit
-
+- pip install streamlit pandas matplotlib
 `streamlit run Main.py`
